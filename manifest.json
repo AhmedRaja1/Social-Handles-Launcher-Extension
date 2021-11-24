@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ahmed's Launcher",
+  "description": "Quick launch Ahmed's social handles",
+  "version": "1.0.0",
+  "icons": { "128": "180.png" },
+  "browser_action": {
+    "default_icon": "images/logo.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
